@@ -271,11 +271,11 @@ def start(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="ᴍʏ ʜᴏᴍᴇ",
-                            url="https://t.me/RaidenSupport",
+                            url="https://t.me/ChikaXSupport",
                         ),
                         InlineKeyboardButton(
                             text="ʜᴇʟᴘ",
-                            url=f"https://t.me/RaidenXRobot?start=help",
+                            url=f"https://t.me/ChikaXRobot?start=help",
                         ),
                     ]
                 ]
