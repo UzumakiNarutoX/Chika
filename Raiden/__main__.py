@@ -128,7 +128,7 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-Hey there! Myself [Chika](https://telegra.ph/file/6daf08882665c1e60ce68.jpg).
+Hey there! Myself [Chika](https://telegra.ph/file/39d6ab61a7356b1a8ed0b.mp4).
 Have a look at the following for an idea of some of the things I can help you with.
 *Main* commands available:
  ➛ /help: PM's you this message.
