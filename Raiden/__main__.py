@@ -87,32 +87,32 @@ RAIDEN_IMG = "https://telegra.ph//file/6bcfa7906c19acd6aca6b.mp4"
 RAIDEN_START = "https://telegra.ph/file/4f73cf9c1d1bad7dc679f.mp4"
 
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph//file/a814af57a80c825a18d4a.mp4) 」────
+────「 [{}](https://telegra.ph/file/e895f55c9c2936c5340f1.jpg) 」────
 ᴋᴏɴ'ɴɪᴄʜɪᴡᴀ {} - sᴀɴ!  
-ɪ'ᴍ [𝙍𝙖𝙞𝙙𝙚𝙣 𝙎𝙝𝙤𝙜𝙪𝙣](https://genshin-impact.fandom.com/wiki/Raiden_Shogun) ᴀɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғʀᴏᴍ [ɢᴇɴsʜɪɴ ɪᴍᴘᴀᴄᴛ](https://genshin.hoyoverse.com/m/en/).
+ɪ'ᴍ [𝑪𝒉𝒊𝒌𝒂 𝑭𝒖𝒋𝒊𝒘𝒂𝒓𝒂](https://myanimelist.net/character/140810/Chika_Fujiwara) ᴀɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғʀᴏᴍ [Kᴀɢᴜʏᴀ-sᴀᴍᴀ](https://anilist.co/anime/125367/Kaguyasama-wa-Kokurasetai-Ultra-Romantic/).
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 » ᴜᴘᴛɪᴍᴇ {} 
 » ᴜsᴇʀs {} ᴀᴄʀᴏss {} ᴄʜᴀᴛs 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ᴀғᴛᴇʀ ᴍʏ ᴇʟᴇᴍᴇɴᴛᴀʟ ʙᴜғғ. ××  
-𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 [𝙉𝙂𝘼](https://t.me/New_Generation_Anime).
+𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 [𝑨𝒌𝒂𝒛𝒂𝒚𝒂 𝑵𝒆𝒕𝒘𝒐𝒓𝒌](https://t.me/Akazaya_Network).
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ʀᴀɪᴅᴇɴ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️",
-            url="t.me/RaidenXRobot?startgroup=true",
+            text="➕️ ᴀᴅᴅ ᴄʜɪᴋᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️",
+            url="t.me/ChikaXRobot?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(
             text="ᴍʏ ʜᴏᴍᴇ",
-            url="t.me/RaidenSupport",
+            url="t.me/ChikaXSupport",
         ),
         InlineKeyboardButton(
-            text="ᴋᴀᴢᴜʜᴀ",
-            url="https://t.me/Kaedehara_Kaazuha",
+            text="sʟᴀᴅᴇ",
+            url="https://t.me/Simp_ly_naveen",
         ),
     ],
     [
@@ -121,14 +121,14 @@ buttons = [
             callback_data="help_back",
         ),
         InlineKeyboardButton(
-            text="𝙉𝙂𝘼",
-            url="https://t.me/New_Generation_Anime",
+            text="𝑨𝒌𝒂𝒛𝒂𝒚𝒂 𝑵𝒆𝒕𝒘𝒐𝒓𝒌",
+            url="https://t.me/Akazaya_Network",
         ),
     ],
 ]
 
 HELP_STRINGS = """
-Hey there! Myself [Raiden](https://telegra.ph//file/98614588d823bda52551d.jpg).
+Hey there! Myself [Chika](https://telegra.ph/file/6daf08882665c1e60ce68.jpg).
 Have a look at the following for an idea of some of the things I can help you with.
 *Main* commands available:
  ➛ /help: PM's you this message.
@@ -137,12 +137,12 @@ Have a look at the following for an idea of some of the things I can help you wi
  ➛ /donate: information on how to donate!
  ➛ /settings: 
    ❂ in PM: will send you your settings for all supported modules.
-   ❂ in a group: will redirect you to pm, with all that chat's settings.\n• *ʀᴇᴀᴄʜ ᴏᴜᴛ ғᴏʀ sᴜᴘᴘᴏʀᴛ:* [sᴜᴘᴘᴏʀᴛ](https://t.me/RaidenSupport)
+   ❂ in a group: will redirect you to pm, with all that chat's settings.\n• *ʀᴇᴀᴄʜ ᴏᴜᴛ ғᴏʀ sᴜᴘᴘᴏʀᴛ:* [sᴜᴘᴘᴏʀᴛ](https://t.me/ChikaXSupport)
 """
 
 IMPORTED = {}
 MIGRATEABLE = []
-HELPABLE = {}
+HELPABLE = {}CC
 STATS = []
 USER_INFO = []
 DATA_IMPORT = []
